@@ -7,6 +7,8 @@ library(ggmap)
 # API Key -----------------------------------------------------------------
 
 #1. Get API Key
+# Note: This is an expired key, reset through the Google Cloud API platform.
+# Do not share active API keys.
 
 api <- "AIzaSyAtxMTla-qDSHDIINSSK1Bqfc74yjZlKeg"
 
